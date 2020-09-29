@@ -1,0 +1,15 @@
+{
+  "args": {
+    "age": "25", 
+    "name": "xiaowang"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.org", 
+    "User-Agent": "python-requests/2.24.0", 
+    "X-Amzn-Trace-Id": "Root=1-5f733896-7f9bcd5a131c88e509845f3b"
+  }, 
+  "origin": "112.10.180.218", 
+  "url": "http://httpbin.org/get?name=xiaowang&age=25"
+}
